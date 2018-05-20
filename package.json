@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/jrm51c/liri-node-app#readme",
   "dependencies": {
-    "dotenv": "^5.0.1"
+    "dotenv": "^5.0.1",
+    "inquirer": "^5.2.0",
+    "request": "^2.86.0"
   }
 }
